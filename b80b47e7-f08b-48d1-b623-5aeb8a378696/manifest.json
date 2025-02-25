@@ -1,0 +1,72 @@
+{
+  "createdDate": "2025-02-12T14:09:26.777Z",
+  "createdBy": "Abdullah Serhat Ince",
+  "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+  "updatedDate": "2025-02-25T08:25:04.711Z",
+  "updatedBy": "Abdullah Serhat Ince",
+  "updatedById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+  "isUpdatable": true,
+  "isDeleted": false,
+  "isDeletable": true,
+  "id": "b80b47e7-f08b-48d1-b623-5aeb8a378696",
+  "className": "MyComponent",
+  "selector": "test-selector",
+  "moduleName": "TestModule",
+  "tags": [],
+  "title": "TestBimer",
+  "description": "test desc.",
+  "previewImgUrls": [],
+  "previewIconUrl": null,
+  "displayInCategoryShowcase": null,
+  "isDeprecated": false,
+  "isIterative": false,
+  "files": [
+    {
+      "name": "example.jsYENI",
+      "content": "console.log(\"Hello, World!\") TEST EN SON YENI",
+      "description": "Sample JavaScript file"
+    },
+    {
+      "name": "readme.mdYENI",
+      "content": "#Documentation3",
+      "description": "Project readme file"
+    }
+  ],
+  "categoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
+  "inputsTypeId": "8d5eff3d-089a-4550-979c-f4293f5db0d0",
+  "isSystemGenerated": false,
+  "inputsType": {
+    "createdDate": "2025-02-12T14:09:26.465Z",
+    "createdBy": "Abdullah Serhat Ince",
+    "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+    "isUpdatable": true,
+    "isDeleted": false,
+    "isDeletable": true,
+    "id": "8d5eff3d-089a-4550-979c-f4293f5db0d0",
+    "name": "TestClassConfig",
+    "isPrimitive": false,
+    "category": "component-config",
+    "type": "model",
+    "description": "TestClass data schema."
+  },
+  "mainCategory": {
+    "createdDate": "2022-02-17T12:22:31.188Z",
+    "id": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
+    "title": "Test Main Category",
+    "name": "test-main-category",
+    "type": "COMPONENT_DEFINITION",
+    "description": "test for parent child test",
+    "parentCategoryId": null
+  },
+  "subCategories": [
+    {
+      "createdDate": "2022-02-17T12:23:18.463Z",
+      "id": "69a15479-0388-4b7a-8d68-c18a18663cac",
+      "title": "Test Child Category",
+      "name": "test-child-category",
+      "type": "COMPONENT_DEFINITION",
+      "description": "test for parent child category",
+      "parentCategoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155"
+    }
+  ]
+}
