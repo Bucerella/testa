@@ -2,7 +2,7 @@
   "createdDate": "2025-02-11T20:14:16.524Z",
   "createdBy": "Abdullah Serhat Ince",
   "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
-  "updatedDate": "2025-02-25T08:24:58.276Z",
+  "updatedDate": "2025-02-25T08:46:58.253Z",
   "updatedBy": "Abdullah Serhat Ince",
   "updatedById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
   "isUpdatable": true,
@@ -28,7 +28,7 @@
   "isIterative": false,
   "files": [
     {
-      "name": "example.js-2",
+      "name": "example.js-2123123123123123123",
       "content": "console.log(\"Hello, World!\") TEST 3",
       "description": "Sampaaale JavaScript file"
     },
@@ -41,6 +41,39 @@
   "categoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
   "inputsTypeId": "5182dc88-5bf0-44e8-bfef-2583b4741f29",
   "isSystemGenerated": false,
+  "inputsType": {
+    "createdDate": "2025-02-11T20:14:16.225Z",
+    "createdBy": "Abdullah Serhat Ince",
+    "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+    "isUpdatable": true,
+    "isDeleted": false,
+    "isDeletable": true,
+    "id": "5182dc88-5bf0-44e8-bfef-2583b4741f29",
+    "name": "TestConfig",
+    "isPrimitive": false,
+    "category": "component-config",
+    "type": "model",
+    "description": "Test data schema."
+  },
+  "outputDefinitions": [
+    {
+      "createdDate": "2025-02-13T23:34:56.580Z",
+      "createdBy": "Tansel Ozkusaksiz",
+      "createdById": "eb043ec6-3e0f-4605-bb05-c9d4a6b435a2",
+      "isUpdatable": true,
+      "isDeleted": false,
+      "isDeletable": true,
+      "id": "2ba18b75-326b-4cea-bc09-aa7107b2bd51",
+      "title": "test11",
+      "fieldName": "test11",
+      "description": "desc",
+      "index": 0,
+      "isArray": false,
+      "componentDefinitionId": "293824a9-01db-4e63-af5d-988d3e7c3483",
+      "typeId": "80cf4784-bac2-4c06-9200-b9a53807eeac",
+      "default": null
+    }
+  ],
   "inputDefinitions": [
     {
       "createdDate": "2025-02-11T20:16:29.521Z",
@@ -62,25 +95,6 @@
       "fieldId": "b3cfeeac-3e75-4ec3-8ba3-ef38b0262ef6"
     }
   ],
-  "outputDefinitions": [
-    {
-      "createdDate": "2025-02-13T23:34:56.580Z",
-      "createdBy": "Tansel Ozkusaksiz",
-      "createdById": "eb043ec6-3e0f-4605-bb05-c9d4a6b435a2",
-      "isUpdatable": true,
-      "isDeleted": false,
-      "isDeletable": true,
-      "id": "2ba18b75-326b-4cea-bc09-aa7107b2bd51",
-      "title": "test11",
-      "fieldName": "test11",
-      "description": "desc",
-      "index": 0,
-      "isArray": false,
-      "componentDefinitionId": "293824a9-01db-4e63-af5d-988d3e7c3483",
-      "typeId": "80cf4784-bac2-4c06-9200-b9a53807eeac",
-      "default": null
-    }
-  ],
   "mainCategory": {
     "createdDate": "2022-02-17T12:22:31.188Z",
     "id": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
@@ -89,20 +103,6 @@
     "type": "COMPONENT_DEFINITION",
     "description": "test for parent child test",
     "parentCategoryId": null
-  },
-  "inputsType": {
-    "createdDate": "2025-02-11T20:14:16.225Z",
-    "createdBy": "Abdullah Serhat Ince",
-    "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
-    "isUpdatable": true,
-    "isDeleted": false,
-    "isDeletable": true,
-    "id": "5182dc88-5bf0-44e8-bfef-2583b4741f29",
-    "name": "TestConfig",
-    "isPrimitive": false,
-    "category": "component-config",
-    "type": "model",
-    "description": "Test data schema."
   },
   "subCategories": [
     {
