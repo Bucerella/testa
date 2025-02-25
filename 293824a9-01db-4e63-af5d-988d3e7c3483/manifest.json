@@ -1,0 +1,118 @@
+{
+  "createdDate": "2025-02-11T20:14:16.524Z",
+  "createdBy": "Abdullah Serhat Ince",
+  "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+  "updatedDate": "2025-02-25T08:24:58.276Z",
+  "updatedBy": "Abdullah Serhat Ince",
+  "updatedById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+  "isUpdatable": true,
+  "isDeleted": false,
+  "isDeletable": true,
+  "id": "293824a9-01db-4e63-af5d-988d3e7c3483",
+  "className": "Test",
+  "selector": "test-test19",
+  "moduleName": "Test",
+  "tags": [
+    "tag1",
+    "tag2",
+    "test"
+  ],
+  "title": "Test19",
+  "description": "test 19 component silinmeli",
+  "previewImgUrls": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqGbFtMpQ4rEXvNMcx069IdUCAa2J3EXvtw&s"
+  ],
+  "previewIconUrl": "data:image/jpeg;base64,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",
+  "displayInCategoryShowcase": null,
+  "isDeprecated": false,
+  "isIterative": false,
+  "files": [
+    {
+      "name": "example.js-2",
+      "content": "console.log(\"Hello, World!\") TEST 3",
+      "description": "Sampaaale JavaScript file"
+    },
+    {
+      "name": "readme.md-2",
+      "content": "#Documentation3",
+      "description": "Project readme file"
+    }
+  ],
+  "categoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
+  "inputsTypeId": "5182dc88-5bf0-44e8-bfef-2583b4741f29",
+  "isSystemGenerated": false,
+  "inputDefinitions": [
+    {
+      "createdDate": "2025-02-11T20:16:29.521Z",
+      "createdBy": "Tansel Ozkusaksiz",
+      "createdById": "eb043ec6-3e0f-4605-bb05-c9d4a6b435a2",
+      "isUpdatable": true,
+      "isDeleted": false,
+      "isDeletable": true,
+      "id": "361e251a-0d93-49d2-a81c-6e43cb31445d",
+      "description": null,
+      "category": "test1",
+      "title": "test1",
+      "fieldName": "test1",
+      "uiDataSelector": "textbox",
+      "index": 0,
+      "isArray": false,
+      "componentDefinitionId": "293824a9-01db-4e63-af5d-988d3e7c3483",
+      "typeId": "64b0d7a0-5258-4b54-a8fe-475fc8d9bda1",
+      "fieldId": "b3cfeeac-3e75-4ec3-8ba3-ef38b0262ef6"
+    }
+  ],
+  "outputDefinitions": [
+    {
+      "createdDate": "2025-02-13T23:34:56.580Z",
+      "createdBy": "Tansel Ozkusaksiz",
+      "createdById": "eb043ec6-3e0f-4605-bb05-c9d4a6b435a2",
+      "isUpdatable": true,
+      "isDeleted": false,
+      "isDeletable": true,
+      "id": "2ba18b75-326b-4cea-bc09-aa7107b2bd51",
+      "title": "test11",
+      "fieldName": "test11",
+      "description": "desc",
+      "index": 0,
+      "isArray": false,
+      "componentDefinitionId": "293824a9-01db-4e63-af5d-988d3e7c3483",
+      "typeId": "80cf4784-bac2-4c06-9200-b9a53807eeac",
+      "default": null
+    }
+  ],
+  "mainCategory": {
+    "createdDate": "2022-02-17T12:22:31.188Z",
+    "id": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
+    "title": "Test Main Category",
+    "name": "test-main-category",
+    "type": "COMPONENT_DEFINITION",
+    "description": "test for parent child test",
+    "parentCategoryId": null
+  },
+  "inputsType": {
+    "createdDate": "2025-02-11T20:14:16.225Z",
+    "createdBy": "Abdullah Serhat Ince",
+    "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
+    "isUpdatable": true,
+    "isDeleted": false,
+    "isDeletable": true,
+    "id": "5182dc88-5bf0-44e8-bfef-2583b4741f29",
+    "name": "TestConfig",
+    "isPrimitive": false,
+    "category": "component-config",
+    "type": "model",
+    "description": "Test data schema."
+  },
+  "subCategories": [
+    {
+      "createdDate": "2022-02-17T12:23:18.463Z",
+      "id": "69a15479-0388-4b7a-8d68-c18a18663cac",
+      "title": "Test Child Category",
+      "name": "test-child-category",
+      "type": "COMPONENT_DEFINITION",
+      "description": "test for parent child category",
+      "parentCategoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155"
+    }
+  ]
+}
