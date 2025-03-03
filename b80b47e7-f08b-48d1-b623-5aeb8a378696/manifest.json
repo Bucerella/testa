@@ -2,7 +2,7 @@
   "createdDate": "2025-02-12T14:09:26.777Z",
   "createdBy": "Abdullah Serhat Ince",
   "createdById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
-  "updatedDate": "2025-03-03T07:53:07.466Z",
+  "updatedDate": "2025-03-03T07:53:29.736Z",
   "updatedBy": "Abdullah Serhat Ince",
   "updatedById": "0f494ae6-b5c6-4394-a3c3-c7fca8d36706",
   "isUpdatable": true,
@@ -35,15 +35,6 @@
   "categoryId": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
   "inputsTypeId": "8d5eff3d-089a-4550-979c-f4293f5db0d0",
   "isSystemGenerated": false,
-  "mainCategory": {
-    "createdDate": "2022-02-17T12:22:31.188Z",
-    "id": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
-    "title": "Test Main Category",
-    "name": "test-main-category",
-    "type": "COMPONENT_DEFINITION",
-    "description": "test for parent child test",
-    "parentCategoryId": null
-  },
   "inputsType": {
     "createdDate": "2025-02-12T14:09:26.465Z",
     "createdBy": "Abdullah Serhat Ince",
@@ -57,6 +48,15 @@
     "category": "component-config",
     "type": "model",
     "description": "TestClass data schema."
+  },
+  "mainCategory": {
+    "createdDate": "2022-02-17T12:22:31.188Z",
+    "id": "07c0ba94-4a9a-437d-9d29-7debdf56e155",
+    "title": "Test Main Category",
+    "name": "test-main-category",
+    "type": "COMPONENT_DEFINITION",
+    "description": "test for parent child test",
+    "parentCategoryId": null
   },
   "subCategories": [
     {
